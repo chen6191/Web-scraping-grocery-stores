@@ -1,3 +1,3 @@
 # sharing-github
-The file "wic_scraper_2" stores the code in a Jupyter Notebook.
-The table "data_samples_20" stores the first 20 records that scrapped by "wic_scraper_2" 
+The file "wic_scraper_4" stores the code in a Jupyter Notebook.
+Due to the budget restriction, only the first 100 records are scrapped by the code. This data are stored in the table "data_samples_3".
